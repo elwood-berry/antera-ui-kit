@@ -18,11 +18,11 @@ Currently users have the ability to:
 
 ### Dec 2nd, 2020 Feedback
 1. [Keep the default Search](#)
-1. Include account in the table header
+1. [Include account in the table header](#)
 1. [Chips filter should be just like library](#)
-1. Mass Merge is going away
+1. [Mass Merge is going away](#)
 1. [Keep consistent library Advanced filter and saved searches separate](#)
-1. Highlight the background color of the status in the row
+1. [Highlight the background color of the status in the row](#)
 
 Customer's ability to define the color of the status at the module stage level
 
@@ -31,3 +31,8 @@ Customer's ability to define the color of the status at the module stage level
 1. View my items
 1. Is there a common use case for needing to go to the specific stage for an order?
 1. Advanced menu - show/hide or constant?
+
+
+1. Select Order# from filters to expose the filter.
+1. Add an order number to the filter
+1. Reduce the table to reflect the filter 
