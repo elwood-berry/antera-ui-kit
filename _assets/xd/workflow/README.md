@@ -24,15 +24,13 @@ Currently users have the ability to:
 1. [Keep consistent library Advanced filter and saved searches separate](#)
 1. [Highlight the background color of the status in the row](#)
 
-Customer's ability to define the color of the status at the module stage level
+### OTHER FEATURES FOR OTHER AREAS
+1. Customer's ability to define the color of the status at the module stage level
 
 ### QUESTIONS
-1. What happens when you type things in the search?
-1. View my items
-1. Is there a common use case for needing to go to the specific stage for an order?
+1. "View my items" - What does this feature do on the current version?
 1. Advanced menu - show/hide or constant?
 
-
-1. Select Order# from filters to expose the filter.
-1. Add an order number to the filter
-1. Reduce the table to reflect the filter 
+## NEVERMIND...
+1. [What happens when you type things in the search?](#) - It is one dimensional. A single scope.
+1. [Is there a common use case for needing to go to the specific stage for an order?](#) - The feature is included in the drop down menu.
