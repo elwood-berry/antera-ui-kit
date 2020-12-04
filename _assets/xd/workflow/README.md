@@ -29,7 +29,7 @@ Currently users have the ability to:
 
 Multiple XD links that display:
 - isolated components
-  - naming convention
+  - naming conventions
   - library components used
 - workflows
 
