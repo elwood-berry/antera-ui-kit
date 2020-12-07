@@ -11,4 +11,5 @@ Ability to
 
 
 ## QUESTION
-1. SCSS library management  
+1. SCSS library management
+2. Process of tickets for UI/UX  
