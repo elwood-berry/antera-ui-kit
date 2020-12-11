@@ -4,9 +4,14 @@ Adobe XD Assets for Antera Application Development UI Kit
 # COLORS
 **Backgrounds**
 1. antera_module_display-filter-chips: #F4F4F4
+1. Panels, Sub Panels, Dialogs: #F4F4F4
 
 **Borders**
 1. Bottom-Borders: #DDDDDD
+
+
+# HIGHLIGHTS
+1. Menu Highlight Color: #058EC0
 
 
 # References
