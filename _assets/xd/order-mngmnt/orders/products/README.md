@@ -35,3 +35,26 @@ The ability to:
  - Status: Cancelled == [Book]
  - Status: Cancelled == [Book] - [Cancel]
  - Status: Cancelled == [Void] - [Sync Void]
+
+
+
+## PHASE I
+
+ [ ] Isolate the scrolling to the draggable area only
+ [ ] Move "Find Products" up to follow other screens
+ [ ] "Add New Product" fires the dialog window to find products.
+ [ ] "Find Products" search field has type-ahead feature.
+ [ ] Consolidate buttons under the settings menu
+ [ ] Line item menu (edit, duplicate, note, delete)
+ [ ] Configure line item dialog menu
+
+
+
+
+
+ ==================
+
+ [ ] Find a product doesn't need a search button
+ [ ] Find a product is missing the "Create New Product" option
+ [ ] Find a product is missing scrollbar
+ [ ] Make draggable area header smaller in height
