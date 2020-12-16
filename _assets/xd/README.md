@@ -12,7 +12,7 @@ Adobe XD Assets for Antera Application Development UI Kit
 
 # HIGHLIGHTS
 1. Menu Highlight Color: #058EC0
-
+1. Form Placeholder text: 919191
 
 # References
 
