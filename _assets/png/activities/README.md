@@ -1,5 +1,5 @@
 ANTERA SOFTWARE
-# PNG:IMAGES - Order
+# PNG:IMAGES - Activities
 Last Updated December 16th, 2020
 
 

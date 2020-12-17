@@ -1,13 +1,16 @@
 ANTERA SOFTWARE
-# PNG:IMAGES - Order
+# ASSETS: REPORTING
 Last Updated December 16th, 2020
 
+---
 
-
-
+1. Table Column - Name
+1. Table Column - Description
+1. Table Column - Department
 
 
 ---
+
 ANTERA SOFTWARE
 5445 Legacy Dr
 Suite 420,

@@ -5,6 +5,8 @@ Adobe XD Assets for Antera Application Development UI Kit
 **Backgrounds**
 1. antera_module_display-filter-chips: #F4F4F4
 1. Panels, Sub Panels, Dialogs: #F4F4F4
+3. Text: Table Headers - #1F1F1F
+
 
 **Borders**
 1. Bottom-Borders: #DDDDDD

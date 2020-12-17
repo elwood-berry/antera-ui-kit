@@ -1,0 +1,8 @@
+Contacts
+Invoices
+Products
+Product Quotes
+Quotes
+Accounts
+Activities
+Roles
