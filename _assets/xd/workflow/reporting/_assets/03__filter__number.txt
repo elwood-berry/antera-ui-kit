@@ -1,0 +1,5 @@
+equal
+greater
+less
+greaterEqual
+lessEqual

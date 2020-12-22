@@ -1,0 +1,4 @@
+equal
+betweenFirst
+betweenLast
+betweenAll

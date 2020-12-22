@@ -7,7 +7,9 @@ Order Management > Orders > Products
 Mobile?
 
 
+Ricks layout
 
+- How to show 10-20 different sizes with a carousel like feature
 
 
 

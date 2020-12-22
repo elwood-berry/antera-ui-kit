@@ -1,0 +1,10 @@
+Sales Person
+New Sos
+Lines Typed
+Qty of Products
+Dollars of Product Sold
+COGS
+Margin $
+Avg Margin
+Average Sale
+Average Lines

@@ -7,7 +7,15 @@ Last Updated December 16th, 2020
 UI references. Adobe XD Assets for Antera Application Development UI Kit
 
 1. [ShipHero](https://shiphero.com/)
+
+
+## ACTIVITIES
 1. [SalesForce](https://www.salesforce.com/)
+
+
+
+## REPORTING
+1. [JazzHR](https://www.jazzhr.com/)
 
 
 
